@@ -1,0 +1,83 @@
+.container-fluid: Esta clase se utiliza para crear un contenedor de ancho completo que se extiende a lo largo de toda la pantalla.
+
+.bg-color-info: Establece el fondo del elemento con un color específico. En este caso, el color es informativo.
+
+.font-color-general: Define el color del texto dentro del elemento. En este caso, se utiliza para establecer el color del texto general.
+
+.row: Define una fila dentro de un contenedor. Se utiliza para organizar elementos en filas.
+
+.col-12 y .col-lg-6: Clases para definir el comportamiento de las columnas en el sistema de cuadrícula de Bootstrap. .col-12 indica que la columna ocupará las 12 columnas en todos los tamaños de pantalla, mientras que .col-lg-6 indica que en pantallas grandes ocupará 6 columnas.
+
+.text-center y .text-lg-left: Alinea el texto en el centro o a la izquierda, respectivamente.
+
+.navbar: Define una barra de navegación.
+
+.navbar-toggler: Clase para el botón de hamburguesa en la barra de navegación.
+
+.navbar-expand-lg: Expande la barra de navegación en pantallas grandes.
+
+.sticky-top: Fija la barra de navegación en la parte superior de la pantalla mientras se desplaza hacia abajo.
+
+.brand-name: Establece estilos para la marca del sitio en la barra de navegación.
+
+.collapse: Oculta los elementos en pantallas pequeñas.
+
+.ml-auto: Alinea un elemento a la izquierda en pantallas pequeñas y a la derecha en pantallas grandes.
+
+.bg-img-principal: Establece un fondo de imagen para la sección principal.
+
+.d-none y .d-lg-block: Oculta el contenido en pantallas pequeñas y lo muestra en pantallas grandes.
+
+.hrblanco: Establece un estilo específico para una línea divisoria (hr).
+
+.align-items-center: Alinea los elementos del contenedor verticalmente en el centro.
+
+.img-fluid: Hace que las imágenes sean responsive para adaptarse al tamaño del contenedor.
+
+.bg-light: Establece el fondo de un elemento con un color claro.
+
+.p-3: Establece un relleno de 3 unidades en todos los lados del elemento.
+
+.d-block y .d-lg-none: Muestra el contenido en pantallas pequeñas y lo oculta en pantallas grandes.
+
+.bg-color-azul: Establece el fondo del elemento con un color azul.
+
+.hrazul: Establece un estilo específico para una línea divisoria horizontal con un color azul.
+
+.text-white: Define el color del texto como blanco.
+
+.mt-n3: Establece un margen superior negativo de 3 unidades.
+
+.text-uppercase: Convierte el texto a mayúsculas.
+
+.font-weigth-bolder: Establece un peso de fuente más grueso.
+
+.fi-xnsuxl-smartphone-solid: Clase que parece estar relacionada con un ícono de smartphone sólido de una biblioteca de iconos externa (posiblemente Font Awesome o similar).
+
+.col-10 y .mx-auto: .col-10 indica que la columna ocupará 10 columnas en todas las tallas de pantalla, y .mx-auto centra horizontalmente el contenido.
+
+.p-5: Establece un relleno de 5 unidades en todos los lados del elemento.
+
+.text-center: Alinea el texto en el centro.
+
+.bg-color-azul: Establece el fondo del elemento con un color azul.
+
+.hrblanco: Establece un estilo específico para una línea divisoria (hr) con un color blanco.
+
+.my-5: Establece un margen vertical de 5 unidades en la parte superior e inferior del elemento.
+
+.fi-onluxl-bus-side: Clase relacionada con un ícono de un autobús lateral de una biblioteca de iconos externa.
+
+.fi-xnluxl-envelope: Clase relacionada con un ícono de sobre de una biblioteca de iconos externa.
+
+.fi-xtluxl-calendar-thin: Clase relacionada con un ícono de calendario delgado de una biblioteca de iconos externa.
+
+.container: Define un contenedor con un ancho fijo y centrado.
+
+.img-fluid: Hace que las imágenes sean responsive para adaptarse al tamaño del contenedor.
+
+.bg-color-info: Establece el fondo del elemento con un color informativo.
+
+.font-color-general: Define el color del texto dentro del elemento.
+
+.text-center: Alinea el texto en el centro.
