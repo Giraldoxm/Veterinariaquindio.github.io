@@ -1,0 +1,72 @@
+/* estilos generales para toda la página */
+body {
+	font-family: 'Helvetica Now', cursive;
+	margin: 0;
+}
+
+.bg-color-info {
+	background-color: rgb(255, 255, 255);
+}
+
+.font-color-general {
+	color: rgb(126, 14, 167);
+}
+
+.brand-name {
+	font-size: 1.8rem;
+	color: rgb(126, 14, 167);
+	margin-left: 2rem;
+}
+
+.bg-img-principal {
+	background-image: url("img/main.jpg");
+	background-size: cover;
+	height: 650px;
+	background-position: center center;
+}
+
+
+
+.bg-color-azul {
+	background-color: rgb(235, 88, 25);
+}
+
+.hrblanco {
+	width: 10%;
+	background-color: rgb(255, 255, 255);
+}
+
+#logovet{
+	position:relative;
+	width: 100px;
+	left: 100px;
+}
+
+#limpieza{
+	width: 460px;
+	height: 310px;
+}
+
+.navbar-nav {
+	margin-left: auto; /* Establece el margen izquierdo al máximo automático posible */
+	font-size: 23px; /* Tamaño de la letra en píxeles */
+    word-spacing: 5px; /* Espaciado entre letras en píxeles */
+}
+
+/* estilos específicos para pantallas menores a 992px (menor que lg de bootstrap) */
+@media only screen and (max-width : 992px) {
+
+	.brand-name {
+		font-size: 1.8rem;
+		color: rgb(188, 137, 207);
+		margin-left: 1rem;
+	}
+
+	/* tenemos 1 imagen específica para móvil */
+	.bg-img-principal {
+		background-image: url("img/main_movil.png");
+		background-size: cover;
+		height: 500px;
+		background-position: center center;	
+	}	
+}
